@@ -3,8 +3,7 @@
 ## Hi there 👋, I'm a
 ### Front End Developer
 
-I have been learning web development for the past few years. I have done more than 50+ projects (big and small) and am currently planning on doing a few big projects with API,typeScript,React JS,MongoDB etc and stuff.
-Skills: Javascript / HTML / CSS
+I have been learning web development for the past few years. I have done more than 50+ projects just simple and attractive and am currently planning on doing a few big projects with JavaScript, API, React Js, MongoDB and Python  and stuff.
 
 - 🔭 I’m currently working on Facebook 
 - 🌱 I’m currently learning JavaScript 
