@@ -1,4 +1,4 @@
-![I am GitHub Readme Generator's creator](https://i.ibb.co/xqzRKrsN/Joynul-Abedin.png)
+![I am GitHub Readme Generator's creator](https://i.ibb.co/7tvYyP3p/github-cover-pic.png)
 
 ## Hi there 👋, I'm a
 ### Front End Developer
