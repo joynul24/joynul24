@@ -1,4 +1,4 @@
-![I am GitHub Readme Generator's creator](https://joynul2024.sirv.com/github-cover.png)
+![I am GitHub Readme Generator's creator](https://joynul2024.sirv.com/cover.png)
 
 ## Hi there 👋, I'm a
 ### Full Stack Developer (MERN) 
