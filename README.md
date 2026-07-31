@@ -1,9 +1,9 @@
 ![I am GitHub Readme Generator's creator](https://joynul2024.sirv.com/github-cover.png)
 
 ## Hi there 👋, I'm a
-### Front End Developer
+### Full Stack Developer (MERN) 
 
-I have been learning web development for the past few years. I have done more than 50+ projects just simple and attractive and am currently planning on doing a few big projects with JavaScript, API, React Js, MongoDB and Python  and stuff.
+I have been learning web development for the past few years. I have done more than 80+ projects just simple and attractive and am currently planning on doing a few big projects with JavaScript, API, React Js, MongoDB and Python  and stuff.
 
 - 🔭 I’m currently working on Facebook 
 - 🌱 I’m currently learning JavaScript 
